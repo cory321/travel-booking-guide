@@ -185,3 +185,14 @@
   padding: 2.5rem;
   color: var(--color-gray-light-3);
 }
+
+//////////////////////////////
+/// GALLERY
+
+.gallery {
+  display: flex;
+
+  &__photo {
+    width: 100%;
+  }
+}
